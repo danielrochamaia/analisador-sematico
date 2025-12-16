@@ -1,0 +1,34 @@
+# Arquivos gerados pelo PLY (Python Lex-Yacc)
+parser.out
+parsetab.py
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ambiente virtual Python
+venv/
+env/
+ENV/
+.venv
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.old
